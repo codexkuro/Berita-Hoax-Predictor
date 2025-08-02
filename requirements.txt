@@ -1,6 +1,7 @@
 streamlit>=1.30.0
-Sastrawi>=1.0.1
+sastrawi>=1.0.1
 pandas>=2.2.2
 requests>=2.31.0
 streamlit-lottie>=0.0.5
 streamlit-option-menu>=0.3.6
+
